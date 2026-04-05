@@ -30,6 +30,9 @@ export const metadata: Metadata = {
     follow: true,
     googleBot: { index: true, follow: true, 'max-video-preview': -1, 'max-image-preview': 'large', 'max-snippet': -1 },
   },
+  verification: {
+    google: '4fc9TBtEWE5VduvO-ZmS-J_NPJ1tBKYSKsPoooV0-6A',
+  },
 }
 
 const structuredData = {
