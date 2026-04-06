@@ -3,7 +3,7 @@ import Footer from '@/components/Footer'
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Instant COI Florida | Same-Day Certificate of Insurance for Florida Contractors',
+  title: 'Instant COI Florida | Same-Day COI for Contractors',
   description: 'Need a COI today? Florida contractors get same-day Certificates of Insurance for general liability, workers comp, and commercial auto. Call now — specialists available Mon–Fri 9am–9pm EST.',
   alternates: { canonical: 'https://www.instantcoiflorida.com' },
 }
