@@ -39,7 +39,7 @@ export default function ArticleLayout({
   const localBusinessSchema = {
     '@context': 'https://schema.org',
     '@type': 'LocalBusiness',
-    name: 'Sunshine State Insured',
+    name: 'Instant COI Florida',
     description: 'Florida home insurance guidance and lead referral service',
     url: 'https://www.sunshinestateinsured.com',
     areaServed: { '@type': 'State', name: 'Florida' },
