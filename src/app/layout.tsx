@@ -73,6 +73,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           rel="stylesheet"
         />
         <link rel="icon" href="/favicon.ico" />
+        <meta name='impact-site-verification' value='3b9b531e-16b4-4fdc-bf20-7102fbb7e7bf' />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }} />
       </head>
       <body className="bg-[#F8F7F4]">
