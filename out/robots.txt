@@ -1,5 +1,4 @@
 User-Agent: *
 Allow: /
-Disallow: /thank-you
 
-Sitemap: https://www.sunshinestateinsured.com/sitemap.xml
+Sitemap: https://www.instantcoiflorida.com/sitemap.xml
